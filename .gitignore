@@ -1,0 +1,5 @@
+.env
+*.log
+scratch/
+test_*.json
+test_*.wav
